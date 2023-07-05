@@ -1,0 +1,8 @@
+.cards-view-main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    justify-content: space-between;
+    margin: auto;
+}

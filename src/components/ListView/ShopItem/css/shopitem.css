@@ -1,0 +1,20 @@
+.shop-item-main {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    max-width: 1200px;
+    justify-content: space-between;
+    margin: auto; 
+    
+
+}
+
+.shop-item-item {
+    display: flex;
+    align-items: center;
+}
+
+.shop-item-pic {
+    display: flex;
+}
+
